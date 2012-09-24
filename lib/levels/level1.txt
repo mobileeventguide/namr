@@ -1,0 +1,408 @@
+Aquaman
+Batman
+Beast
+Black Canary
+Black Lightning
+Black Panther
+Black Widow
+Blade
+Blue Beetle
+Booster Gold
+Captain America
+Captain Britain
+Captain Marvel
+Catwoman
+Cerebus
+Cyclops
+Daredevil
+Bad Horse
+Deadpool
+Dr. Strange
+Dream of the Endless
+Elijah Snow
+Eric O'Grady
+Fone Bone
+Gambit
+Ghost Rider
+Green Arrow
+Groo
+Hal Jordan
+Hank Pym
+Hawkeye
+Hawkman
+Hellboy
+Human Torch
+Invisible Woman
+Iron Fist
+Iron Man
+James Gordon
+Jean Grey
+Jesse Custer
+John Constantine
+John Stewart
+Jonah Hex
+Judge Dredd
+Ka-Zar
+Kitty Pryde
+Luke Cage
+Martian Manhunter
+Marv
+Michonne
+Mitchell Hundred
+Moon Knight
+Nick Fury
+Nightcrawler
+Nova
+Professor X
+Punisher
+Raphael
+Reed Richards
+Renee Montoya
+Rick Grimes
+Rorschach
+Savage Dragon
+Scott Pilgrim
+Sgt. Rock
+She-Hulk
+Silver Surfer
+Spawn
+Spider-Man
+Spider Jerusalem
+Storm
+Sub-Mariner
+Superboy
+Supergirl
+Superman
+Swamp Thing
+The Atom
+The Crow
+The Falcon
+The Hulk
+The Rocketeer
+The Spectre
+The Spirit
+The Thing
+The Tick
+Thor
+Tim Drake
+Usagi Yojimbo
+Wally West
+Wasp
+Wildcat
+Wolverine
+Wonder Woman
+Yorick Brow
+Robot
+Ninja
+Warlock
+Tiger Blood
+Ren
+Stimpy
+Frodo
+Bilbo
+Legolas
+Gandalf
+Peregrine
+Gimmli
+Gandhi
+Barrack
+Adrian Ripburger
+Akuma
+Albert Wesker
+Alma
+Andrew Ryan
+Ares
+Arthas
+Big Boss
+Bob the Killer Goldfish
+Bowser
+Bydo
+Calypso
+Captain Onishima
+Captain Qwark
+Carmen Sandiego
+Coily
+Combine Soldiers
+Covenant
+Cronos
+Cyberdemon
+Dagoth Ur
+Dark Falz
+Dark Samus/Sa-X
+Darth Malak
+Darth Vader
+Death Adder
+Diablo
+Donkey Kong
+Dormin
+Dr. Breen
+Dr. Nefarious
+Dr. Robotnik
+Dr. Wily
+Dracula
+Evil Otto
+Flood
+Frank Fontaine
+Ganon / Ganondorf
+Gary Oak
+Geth
+GlaDOS
+Goro
+Great Mighty Poo
+Grue
+Gruntilda
+Harbinger
+Jacqueline Natla
+Jafar/Vizier
+John Henry Eden
+Joker
+Kain
+Kane
+Kefka
+Kerrigan
+Kessler
+King Hippo
+Lance Vance
+Lavos
+LeChuck
+Lich King
+M. Bison
+Magus
+Mario
+Master-D
+Liquid Snake
+Mecha-Hitler
+Mike Tyson
+Mother Brain
+Nazis
+Nemesis
+Officer Tenpenny
+Origami Killer
+Pac-Man Ghosts
+Predator
+Prophet of Truth
+Psycho Mantis
+Psy-Crow
+Purple Tentacle
+Red Falcon
+Revolver Ocelot
+Sander Cohen
+Saren
+Seifer
+Sephiroth
+Shadow Link/Dark Link
+Shang Tsung
+SHODAN
+Singe
+Sinistar
+Sniper Wolf
+Sofia Lamb
+Space Invaders Aliens
+Sub Zero
+Tank
+Team Rocket
+Tom Nook
+Ultros
+Wario
+Zeus
+Zombies
+2x4
+211-V Plasma Cutter
+Anal Probe
+Aperture Science Handheld Portal Device
+Apple of Eden
+Atomizer
+AWP / Magnum Sniper Rifle
+Badger Saw
+Beam Katana
+BFG 9000
+Bionic Arm
+Blades of Chaos
+Blaster Launcher
+Blunderbuss
+Bomb
+Boomer Bile
+Buster Sword
+Celestial Brush
+Cerebral Bore
+Chainsaw
+Chaoseater
+Clementine
+Corrupted Ashbringer
+Crowbar
+Dagger of Time
+Disc Launcher / Spinfusor
+Diskarmor
+Dual Pistols
+Earthworm Jim
+Energy Sword
+Euclid's C-Finder
+Excavator
+Experimental MIRV
+FarSight XR-20
+Fiber Wire
+Flailgun
+Flak Cannon
+Foam Finger
+Glaive
+Golden Gun
+Gravity Gun
+Gunblade
+Hair
+Hammer
+Heavenly Sword
+Hidden Blade
+Hyper Beam
+Impact Hammer
+Insect Swarm Plasmid
+Katamari
+Keyblade
+Land Shark Gun
+Laptop Gun
+Laser Gun
+M-920 Cain
+M6D Pistol
+M19 SSM Rocket Launcher
+Master Sword
+Mega Buster
+Metal Blade
+Metal Gear REX
+Mk 2 Lancer Assault Rifle
+Morph Gun
+Mr. Toots
+Mr. Zurkon
+Nemean Cestus
+Overwatch Standard Issue Pulse Rifle
+P.R.L. 412
+Pandora
+Particle Cannon
+Planet Buster
+Plasma Grenade
+Plastic Bag
+Poké Ball
+Proton Cannon
+Pump
+Razor-Rimmed Hat
+RC-XD
+Redeemer
+Red Shell
+RYNO V
+Sasha
+Scorpion's Spear
+Severed Hand
+Shrink Ray
+Soul Edge
+Soul Reaver
+Spread Gun
+Stake Gun
+Tactical Nuke
+Tanegashima
+Taser
+Time Manipulation Device
+Topsy Turvy Bomb
+Vampire Killer
+VC5 Arc Rifle
+Vector Cannon
+Vega's Claw
+Vortex Grenade
+Wabbajack
+Absol
+Aerodactyl
+Aggron
+Alakazam
+Arcanine
+Arceus
+Articuno
+Blastoise
+Blaziken
+Braviary
+Bulbasaur
+Celebi
+Charizard
+Charmander
+Charmeleon
+Cubone
+Cyndaquil
+Darkrai
+Deoxys
+Dialga
+Dragonair
+Dragonite
+Electabuzz
+Electivire
+Empoleon
+Entei
+Espeon
+Feraligatr
+Flareon
+Flygon
+Gabite
+Garchomp
+Gastly
+Gengar
+Giratina
+Glaceon
+Groudon
+Growlithe
+Gyarados
+Haunter
+Haxorus
+Hitmonlee
+Ho-Oh
+Houndoom
+Hydreigon
+Infernape
+Ivysaur
+Jolteon
+Kabutops
+Kadabra
+Kingdra
+Kyogre
+Kyurem
+Lapras
+Latias
+Latios
+Lucario
+Lugia
+Luxray
+Machamp
+Meganium
+Metagross
+Mew
+Mewtwo
+Milotic
+Moltres
+Nidoking
+Ninetales
+Onix
+Palkia
+Pidgeot
+Pikachu
+Quilava
+Raichu
+Raikou
+Rapidash
+Rayquaza
+Reshiram
+Rhydon
+Salamence
+Samurott
+Sceptile
+Scizor
+Scyther
+Serperior
+Snorlax
+Squirtle
+Steelix
+Suicune
+Swampert
+Torterra
+Typhlosion
+Tyranitar
+Umbreon
+Vaporeon
+Venusaur
+Wartortle
+Zapdos
+Zekrom
+Zoroark
