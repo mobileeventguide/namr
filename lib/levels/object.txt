@@ -17,10 +17,10 @@ Cyclops
 Daredevil
 Bad Horse
 Deadpool
-Dr. Strange
+Dr Strange
 Dream of the Endless
 Elijah Snow
-Eric O'Grady
+Eric OGrady
 Fone Bone
 Gambit
 Ghost Rider
@@ -135,15 +135,16 @@ Death Adder
 Diablo
 Donkey Kong
 Dormin
-Dr. Breen
-Dr. Nefarious
-Dr. Robotnik
-Dr. Wily
+Dr Breen
+Dr Nefarious
+Dr Robotnik
+Dr Wily
 Dracula
 Evil Otto
 Flood
 Frank Fontaine
-Ganon / Ganondorf
+Ganon
+Ganondorf
 Gary Oak
 Geth
 GlaDOS
@@ -153,7 +154,8 @@ Grue
 Gruntilda
 Harbinger
 Jacqueline Natla
-Jafar/Vizier
+Jafar
+Vizier
 John Henry Eden
 Joker
 Kain
@@ -190,7 +192,8 @@ Sander Cohen
 Saren
 Seifer
 Sephiroth
-Shadow Link/Dark Link
+Shadow Link
+Dark Link
 Shang Tsung
 SHODAN
 Singe
@@ -209,10 +212,10 @@ Zombies
 2x4
 211-V Plasma Cutter
 Anal Probe
-Aperture Science Handheld Portal Device
 Apple of Eden
 Atomizer
-AWP / Magnum Sniper Rifle
+AWP
+Magnum Sniper Rifle
 Badger Saw
 Beam Katana
 BFG 9000
@@ -231,12 +234,13 @@ Clementine
 Corrupted Ashbringer
 Crowbar
 Dagger of Time
-Disc Launcher / Spinfusor
+Disc Launcher
+Spinfusor
 Diskarmor
 Dual Pistols
 Earthworm Jim
 Energy Sword
-Euclid's C-Finder
+Euclids C-Finder
 Excavator
 Experimental MIRV
 FarSight XR-20
@@ -269,17 +273,16 @@ Metal Blade
 Metal Gear REX
 Mk 2 Lancer Assault Rifle
 Morph Gun
-Mr. Toots
-Mr. Zurkon
+Mr Toots
+Mr Zurkon
 Nemean Cestus
-Overwatch Standard Issue Pulse Rifle
-P.R.L. 412
+PRL 412
 Pandora
 Particle Cannon
 Planet Buster
 Plasma Grenade
 Plastic Bag
-Poké Ball
+Poke Ball
 Proton Cannon
 Pump
 Razor-Rimmed Hat
@@ -288,7 +291,7 @@ Redeemer
 Red Shell
 RYNO V
 Sasha
-Scorpion's Spear
+Scorpions Spear
 Severed Hand
 Shrink Ray
 Soul Edge
@@ -303,7 +306,7 @@ Topsy Turvy Bomb
 Vampire Killer
 VC5 Arc Rifle
 Vector Cannon
-Vega's Claw
+Vegas Claw
 Vortex Grenade
 Wabbajack
 Absol
