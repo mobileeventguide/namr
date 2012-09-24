@@ -3,7 +3,7 @@
 module NAMR
   class Generator
     def self.object_all
-      File.open("./lib/levels/object.txt").read.split("\n")
+      File.open(File.dirname(__FILE__) + "/levels/object.txt").read.split("\n")
     end
 
     def self.pick_object
@@ -12,7 +12,7 @@ module NAMR
     end
 
     def self.adjective_all
-      File.open("./lib/levels/adjective.txt").read.split("\n")
+      File.open(File.dirname(__FILE__) + "/levels/adjective.txt").read.split("\n")
     end
 
     def self.pick_adjective
